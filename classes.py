@@ -1,4 +1,5 @@
 class Shivam:
+	#only init defination can have the self variable assignment.
 	def __init__(self,first,last,skill,sleep_hr):
 		self.first = first
 		self.last = last
